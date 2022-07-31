@@ -14,7 +14,7 @@ This note taking app lets you write notes with a title and description of note. 
 
 ## Installation
 
-Dependencies include express. It is also required to install the node package npm.
+Dependencies include express. It is also required to install the node package npm and uniqid.
 
 ## Usage
 
